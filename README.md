@@ -1,2 +1,2 @@
-# aws-cli
+# AWS CLI
 Handy, AWS CLI commands
